@@ -24,8 +24,8 @@ theme:
   language: zh
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: amber
+    accent: amber
   favicon: assets/images/favicon.png
   # logo: assets/images/logo.svg
   icon:

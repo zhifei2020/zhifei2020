@@ -8,8 +8,6 @@ site_description: >-
 markdown_extensions:
   - attr_list
 
-
-
 # Repository
 repo_name: zhifei2020/zhifei2020
 repo_url: https://github.com/zhifei2020/zhifei2020
@@ -24,8 +22,8 @@ theme:
   language: zh
   palette:
     scheme: default
-    primary: amber
-    accent: amber
+    primary: teal
+    accent: teal
   favicon: assets/images/favicon.png
   # logo: assets/images/logo.svg
   icon:

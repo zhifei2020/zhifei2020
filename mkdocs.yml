@@ -29,7 +29,7 @@ theme:
   favicon: assets/images/favicon.png
   # logo: assets/images/logo.svg
   icon:
-    logo: material/face-man-profile
+    logo: material/eye
   features:
     # - navigation.instant
     - navigation.sections

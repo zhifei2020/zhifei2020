@@ -1,0 +1,76 @@
+site_name: 张知非
+site_url: https://zhangzhifei.com/
+site_author: buhaoqi
+site_description: >-
+  Create a branded static site from a set of Markdown files to host the
+  documentation of your Open Source or commercial project – customizable,
+  searchable, mobile-friendly, 40+ languages
+markdown_extensions:
+  - attr_list
+
+
+
+# Repository
+repo_name: zhifei2020/zhifei2020
+repo_url: https://github.com/zhifei2020/zhifei2020
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2021 - 2021 zhangzhifei.com
+
+# Configuration
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  favicon: assets/images/favicon.png
+  # logo: assets/images/logo.svg
+  icon:
+    logo: material/eye
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+  # markdown_extensions:
+    # - pymdownx.emoji:
+        # emoji_index: !!python/name:materialx.emoji.twemoji
+        # emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Page tree
+nav:
+  - 首页: index.md
+  - 相册:
+    - 2020年1月: photos/202001.md
+    - 2020年2月: photos/202002.md
+    - 2020年3月: photos/202003.md
+    - 2020年4月: photos/202004.md
+    - 2020年5月: photos/202005.md
+    - 2020年6月: photos/202006.md
+    - 2020年7月: photos/202007.md
+    - 2020年8月: photos/202008.md
+    - 2020年9月: photos/202009.md
+    - 2020年10月: photos/202010.md
+    - 2020年11月: photos/202011.md
+    - 2020年12月: photos/202012.md
+    - 2021年1月: photos/202101.md
+    - 2021年2月: photos/202102.md
+  #- 视频:
+    #- 2020年1月: videoes/202001.md
+    #- 2020年2月: videoes/202002.md
+    #- 2020年3月: videoes/202003.md
+    #- 2020年4月: videoes/202004.md
+    #- 2020年5月: videoes/202005.md
+    #- 2020年6月: videoes/202006.md
+    #- 2020年7月: videoes/202007.md
+    #- 2020年8月: videoes/202008.md
+    #- 2020年9月: videoes/202009.md
+    #- 2020年10月: videoes/202010.md
+    #- 2020年11月: videoes/202011.md
+    #- 2020年12月: videoes/202012.md
+    #- 2021年1月: videoes/202101.md
+    #- 2021年2月: videoes/202102.md
+  #- 博客:
+    #- Material for MkDocs: blog/202001.md
